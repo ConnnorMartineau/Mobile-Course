@@ -1,5 +1,27 @@
 # Mobile-Course
 Mobile Application Development Course
+
+{Documentation}
+-Purpose of the site: This is my project for Professor Gary Tanner's Mobile Application Development Course at Rasmussen College.
+-Site map - see the file through the sotd because github no longer has the "Launce automatic page generator"
+-The site includes a homepage with links to 9 other pages on the site. These include:
+	-about you- which has five different fields with three different form elements.
+	-flavors- which would contain information of flavors the company sells.
+	-new releases- which would contain information on all of their new products.
+	-box mods- which would contain information on all of their box mods.
+	-salt mods- which would contain information on all of their salt mods.
+	-tournaments- which would contain information on all tournaments they have hosted and are projected to host.
+	-best sellers- which contains a filtered list of their 6 best sellers, one highlighted with a standard icon.
+	-about us- which would contain information about the company
+	-grid- which contains two rows of 3 columns of a grid.
+-There is a navigation panel that slides from the right of the screen that would allow the user to navigate to either juices, mods, or best sellers.
+-The site contains 3 different swatches from ThemeRoller that alternate throughout each link.
+-The site contains web storage.
+-Each page of the site contains a footer with a copyright.
+-The site contains a logo of the company on the homepage.
+-https://connnormartineau.github.io/Mobile-Course/
+{/Documentation}
+	
 <!DOCTYPE html>
 <html>
 <head>
